@@ -1,4 +1,4 @@
-module github.com/milvus-io/milvus-sdk-go/v2
+github.com/wg1026688210/milvus-sdk-go/v2
 
 go 1.17
 
